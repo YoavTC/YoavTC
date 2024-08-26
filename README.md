@@ -9,7 +9,7 @@ I've been writing code since 2020 and making games in Unity since 2022. I love c
 * 🌍  I'm based in Israel, Tel-Aviv
 * 🖥️  See my portfolio at [https://yoavtc.work/](http://yoavtc.work/)
 * ✉️  You can contact me at [yoavtc2004@gmail.com](mailto:yoavtc2004@gmail.com)
-* ⚡  I am currently studying Game Development in the Open University of Israel, Hasifa.
+* 📖  I am currently studying Game Development in the Open University of Israel, Hasifa.
 
 ### Skills
 
