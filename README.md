@@ -3,11 +3,11 @@ Hello! 👋 My name is Yoav!
 
 I've been writing code since 2020 and making games in Unity since 2022. I love creating experiences for people, whether that be through hosting events on my old Minecraft server, or making a multiplayer party games just for me and my friends to enjoy. Seeing other people having fun because of something I did is what drives me.
 
-* 🌍  I'm live in Israel, Tel-Aviv 🇮🇱, and willing to relocate to Europe 🇪🇺 or North America  🇺🇸 🇨🇦
+* 🌍  I live in Israel, Tel-Aviv 🇮🇱, and willing to relocate to Europe 🇪🇺 or North America  🇺🇸 🇨🇦
 * 🗣️  I speak Hebrew & English fluently, and willing to learn more!
-* 📖  I am currently studying Game Development in the [Open University of Israel](https://www.openu.ac.il/), Hasifa.
-* 🖥️  Check out my portfolio at [https://yoavtc.work/](http://yoavtc.work/)
-* 📫  You can always contact me at [yoavtc2004@gmail.com](mailto:yoavtc2004@gmail.com)
+* 📖  I am currently studying Game Development in the [Open University of Israel](https://www.openu.ac.il/), Hasifa.
+* 🖥️  Check out my portfolio at [https://yoavtc.work/](http://yoavtc.work/)
+* 📫  You can always contact me at [yoavtc2004@gmail.com](mailto:yoavtc2004@gmail.com)
 
 ## Contact Me
 [![a](https://skillicons.dev/icons?i=discord,gmail,linkedin,&theme=light)](https://yoavtc.work/Main%20Pages/CONTACT_ME.html)
