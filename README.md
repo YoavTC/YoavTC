@@ -20,23 +20,16 @@ I've been writing code since 2020 and making games in Unity since 2022. I love c
 
 ![](https://skillicons.dev/icons?i=unity,rider,idea,vscode,visualstudio,&theme=light)
 
+---
 
-## My Creations: <br>
-[🎮 Games](#games)<br>
-[🔨 Tools](#tools)<br>
-[➕ Addons](#addons)<br>
-
-
-C# Unity Programmer
------------------------
+# ⌨️ C# Unity Programmer
 > Check out my pinned repositories to see my best code!
 
 I have over 2 years of experience working with Unity 2D and 3D. I have made both mobile and PC desktop games, and want to learn more about VR and Web development in the future.
 
 I have a strong understanding of the Unity engine and how it works, and a <i>slight</i> obsession with always finding new tools to streamline and optimize my workflow on it ([Check this out](https://yoavtc.github.io/top-tier-free-tools/)).
 
-Game Designer
------------------------
+# 🕹️ Game Designer
 Between 2020-2021, I had a Minecraft server with MMO-RPG mechanics and themes. I created the quests, achievements, boss fights, events, lore and much more. [I have an entire page on it on my website](https://yoavtc.work/projects/minecraft-server.html).
 
 Sometimes in my spare time, I like to make YouTube videos on video game mechanics and how I would approach either balancing or changing them.
@@ -46,8 +39,8 @@ Sometimes in my spare time, I like to make YouTube videos on video game mechanic
 * ▶️ [This new addition WILL SAVE Valorant](https://youtu.be/Lie5LCECQ24?si=5njrhU8i0N8LDuRy)
 * ▶️ [4 Unique Updates Ideas for Minecraft that Mojang Must Add!](https://youtu.be/uhrwxk5-JBA?si=pn5g_PmsPZ7EYPz6)
 
----
-## Games
+# Stuff I Made:
+Games
 
 * 🐀 [Chef Shooter](https://yoavtc.work/projects/chef-shooter.html) - Feb 2022
 * 👺 [Israel Wolfenstein](https://yoavtc.work/projects/israel-wolfenstein.html) - May 2023
@@ -55,13 +48,17 @@ Sometimes in my spare time, I like to make YouTube videos on video game mechanic
 * 🐈 [Catch the Cat](https://yoavtc.work/projects/catch-the-cat.html) - Jul 2023
 * 🏂 [Snowboard Tapper](https://yoavtc.work/projects/snowboard-tapper.html) - Dec 2023
 * 🏃‍♀️‍➡️ [[REDACTED]](https://yoavtc.work/projects/redacted.html) - Aug 2024
-## Tools
+
+Tools
+
 * 🎬 [Unity Scene Switcher](https://github.com/YoavTC/unity-scene-switcher) - Nov 2024
 * 🔨 [Unity Helper Functions](https://github.com/YoavTC/helper-functions) - Aug 2024
 * 🎲 [Roll a 20 Sided Die](https://yoavtc.work/projects/roll-20.html) - Nov 2023
 * 🪙 [VCT Coin Toss Simulator](https://yoavtc.work/projects/vct-cointoss.html) - Mar 2024
 * 🚨 [Unity Trigger Listener System](https://yoavtc.work/projects/unity-event-system.html) - Nov 2023
-## Addons
+
+Addons
+
 * 🕌 [de_jaffa](https://yoavtc.work/projects/de_jaffa.html) - Mar 2022
 * 🧊 [More Ice Minecraft Mod](https://www.curseforge.com/minecraft/mc-mods/more-ice) - May 2021
 * 🍇 [Vineyard Minecract Mod](https://www.curseforge.com/minecraft/mc-mods/vineyard-mod) - Nov 2022
