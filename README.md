@@ -12,13 +12,8 @@ I've been writing code since 2020 and making games in Unity since 2022. I love c
 ## Contact Me
 [![a](https://skillicons.dev/icons?i=discord,gmail,linkedin,&theme=light)](https://yoavtc.work/Main%20Pages/CONTACT_ME.html)
 
-## Skills
-![](https://skillicons.dev/icons?i=cs,java,js,py,markdown&theme=light)
-
-![](https://skillicons.dev/icons?i=pr,ae,au,ps,notion,&theme=light)
-
-
-![](https://skillicons.dev/icons?i=unity,rider,idea,vscode,visualstudio,&theme=light)
+## Skills & Programs
+![](https://skillicons.dev/icons?i=cs,unity,java,markdown,notion,rider,idea,vscode,visualstudio,pr,ae,au,ps,&theme=light)
 
 ---
 
