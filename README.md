@@ -18,8 +18,6 @@ I've been writing code since 2020 and making games in Unity since 2022. I love c
 ---
 
 # ⌨️ C# Unity Programmer
-> Check out my pinned repositories to see my best code!
-
 I have over 2 years of experience working with Unity 2D and 3D. I have made both mobile and PC desktop games, and want to learn more about VR and Web development in the future.
 
 I have a strong understanding of the Unity engine and how it works, and a <i>slight</i> obsession with always finding new tools to streamline and optimize my workflow on it ([Check this out](https://yoavtc.github.io/top-tier-free-tools/)).
