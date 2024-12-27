@@ -5,7 +5,7 @@ I've been writing code since 2020 and making games in Unity since 2022. I love c
 
 * 🌍  I live in Israel, Tel-Aviv 🇮🇱, and willing to relocate to Europe 🇪🇺 or North America  🇺🇸 🇨🇦
 * 🗣️  I speak Hebrew & English fluently, and willing to learn more!
-* 📖  I am currently studying Game Development in the [Open University of Israel](https://www.openu.ac.il/), Hasifa.
+* 📖  I have just completed my studies in Game Development at the [Open University of Israel](https://www.openu.ac.il/), Hasifa.
 * 🖥️  Check out my portfolio at [https://yoavtc.work/](http://yoavtc.work/)
 * 📫  You can always contact me at [yoavtc2004@gmail.com](mailto:yoavtc2004@gmail.com)
 
@@ -35,15 +35,17 @@ Sometimes in my spare time, I like to make YouTube videos on video game mechanic
 # Stuff I Made:
 Games
 
+* 😀 [Emoji General TD](https://yoavtc.work/projectsv2/emoji-general-td/) - Dec 2024
+* 🏃‍♀️‍➡️ [[REDACTED]](https://yoavtc.work/projects/redacted.html) - Aug 2024
 * 🐀 [Chef Shooter](https://yoavtc.work/projects/chef-shooter.html) - Feb 2022
 * 👺 [Israel Wolfenstein](https://yoavtc.work/projects/israel-wolfenstein.html) - May 2023
 * 🍕 [Pizza Defender](https://yoavtc.work/projects/pizza-defender.html) - May 2023
 * 🐈 [Catch the Cat](https://yoavtc.work/projects/catch-the-cat.html) - Jul 2023
 * 🏂 [Snowboard Tapper](https://yoavtc.work/projects/snowboard-tapper.html) - Dec 2023
-* 🏃‍♀️‍➡️ [[REDACTED]](https://yoavtc.work/projects/redacted.html) - Aug 2024
 
 Tools
 
+* 🧰 [Super Toolbelt](https://github.com/YoavTC/super-toolbelt) - Dec 2024
 * 🎬 [Unity Scene Switcher](https://github.com/YoavTC/unity-scene-switcher) - Nov 2024
 * 🔨 [Unity Helper Functions](https://github.com/YoavTC/helper-functions) - Aug 2024
 * 🎲 [Roll a 20 Sided Die](https://yoavtc.work/projects/roll-20.html) - Nov 2023
