@@ -10,7 +10,7 @@ I've been writing code since 2020 and making games in Unity since 2022. I love c
 * 📫  You can always contact me at [yoavtc2004@gmail.com](mailto:yoavtc2004@gmail.com)
 
 ## Contact Me
-[![a](https://skillicons.dev/icons?i=discord,gmail,linkedin,&theme=light)](https://yoavtc.work/Main%20Pages/CONTACT_ME.html)
+[![a](https://skillicons.dev/icons?i=discord,gmail,linkedin,&theme=light)](https://yoavtc.work/pages/contact)
 
 ## Skills & Programs
 ![](https://skillicons.dev/icons?i=cs,unity,java,markdown,notion,rider,idea,vscode,visualstudio,pr,ae,au,ps,&theme=light)
@@ -35,8 +35,8 @@ Sometimes in my spare time, I like to make YouTube videos on video game mechanic
 # Stuff I Made:
 Games
 
-* 😀 [Emoji General TD](https://yoavtc.work/projectsv2/emoji-general-td/) - Dec 2024
-* 🏃‍♀️‍➡️ [[REDACTED]](https://yoavtc.work/projects/redacted.html) - Aug 2024
+* 😀 [Emoji General TD](https://github.com/YoavTC/openu-final-project) - Dec 2024
+* 🏃‍♀️‍➡️ [[REDACTED]](https://github.com/YoavTC/openu-group-project) - Aug 2024
 * 🐀 [Chef Shooter](https://yoavtc.work/projects/chef-shooter.html) - Feb 2022
 * 👺 [Israel Wolfenstein](https://yoavtc.work/projects/israel-wolfenstein.html) - May 2023
 * 🍕 [Pizza Defender](https://yoavtc.work/projects/pizza-defender.html) - May 2023
@@ -46,7 +46,6 @@ Games
 Tools
 
 * 🧰 [Super Toolbelt](https://github.com/YoavTC/super-toolbelt) - Dec 2024
-* 🎬 [Unity Scene Switcher](https://github.com/YoavTC/unity-scene-switcher) - Nov 2024
 * 🔨 [Unity Helper Functions](https://github.com/YoavTC/helper-functions) - Aug 2024
 * 🎲 [Roll a 20 Sided Die](https://yoavtc.work/projects/roll-20.html) - Nov 2023
 * 🪙 [VCT Coin Toss Simulator](https://yoavtc.work/projects/vct-cointoss.html) - Mar 2024
