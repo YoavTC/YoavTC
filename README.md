@@ -37,9 +37,9 @@ Games
 
 * 😀 [Emoji General TD](https://github.com/YoavTC/openu-final-project) - Dec 2024
 * 🏃‍♀️‍➡️ [[REDACTED]](https://github.com/YoavTC/openu-group-project) - Aug 2024
-* 🐀 [Chef Shooter](https://yoavtc.work/projects/chef-shooter.html) - Feb 2022
+* 🐀 [Chef Shooter](https://yoavtc.work/projectsv2/chef-shooter/) - Feb 2022
 * 👺 [Israel Wolfenstein](https://yoavtc.work/projects/israel-wolfenstein.html) - May 2023
-* 🍕 [Pizza Defender](https://yoavtc.work/projects/pizza-defender.html) - May 2023
+* 🍕 [Pizza Defender](https://yoavtc.work/projectsv2/pizza-defender/) - May 2023
 * 🐈 [Catch the Cat](https://yoavtc.work/projects/catch-the-cat.html) - Jul 2023
 * 🏂 [Snowboard Tapper](https://yoavtc.work/projects/snowboard-tapper.html) - Dec 2023
 
@@ -49,13 +49,12 @@ Tools
 * 🔨 [Unity Helper Functions](https://github.com/YoavTC/helper-functions) - Aug 2024
 * 🎲 [Roll a 20 Sided Die](https://yoavtc.work/projects/roll-20.html) - Nov 2023
 * 🪙 [VCT Coin Toss Simulator](https://yoavtc.work/projects/vct-cointoss.html) - Mar 2024
-* 🚨 [Unity Trigger Listener System](https://yoavtc.work/projects/unity-event-system.html) - Nov 2023
 
 Addons
 
+* 🔴 [Wipeout Minecraft Datapack](https://www.reddit.com/r/MinecraftCommands/comments/xe7bg2/i_made_a_working_wipeout_course_for_a_youtube/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) | [`YouTube Video`](https://www.youtube.com/watch?v=gGD7N4hX5lk) - Sep 2022
 * 🕌 [de_jaffa](https://yoavtc.work/projects/de_jaffa.html) - Mar 2022
 * 🧊 [More Ice Minecraft Mod](https://www.curseforge.com/minecraft/mc-mods/more-ice) - May 2021
 * 🍇 [Vineyard Minecract Mod](https://www.curseforge.com/minecraft/mc-mods/vineyard-mod) - Nov 2022
 * 🫐 [Mulberry Minecraft Mod](https://www.curseforge.com/minecraft/mc-mods/mulberry) - Dec 2022
-* 🔴 [Wipeout Minecraft Datapack](https://www.reddit.com/r/MinecraftCommands/comments/xe7bg2/i_made_a_working_wipeout_course_for_a_youtube/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) - Sep 2022
 * 🪈 [Bamboo Flute Minecraft Mod](https://yoavtc.work/projects/bamboo-flute.html) - Feb 2023
