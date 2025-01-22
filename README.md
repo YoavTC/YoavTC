@@ -23,7 +23,7 @@ I have over 2 years of experience working with Unity 2D and 3D. I have made both
 I have a strong understanding of the Unity engine and how it works, and a <i>slight</i> obsession with always finding new tools to streamline and optimize my workflow on it ([Check this out](https://yoavtc.github.io/top-tier-free-tools/)).
 
 # 🕹️ Game Designer
-Between 2020-2021, I had a Minecraft server with MMO-RPG mechanics and themes. I created the quests, achievements, boss fights, events, lore and much more. [I have an entire page on it on my website](https://yoavtc.work/projects/minecraft-server.html).
+Between 2020-2021, I had a Minecraft server with MMO-RPG mechanics and themes. I created the quests, achievements, boss fights, events, lore and much more. [I have an entire page on it on my website](https://yoavtc.work/project/claytyne).
 
 Sometimes in my spare time, I like to make YouTube videos on video game mechanics and how I would approach either balancing or changing them.
 
@@ -37,9 +37,9 @@ Games
 
 * 😀 [Emoji General TD](https://github.com/YoavTC/openu-final-project) - Dec 2024
 * 🏃‍♀️‍➡️ [[REDACTED]](https://github.com/YoavTC/openu-group-project) - Aug 2024
-* 🐀 [Chef Shooter](https://yoavtc.work/projectsv2/chef-shooter/) - Feb 2022
+* 🐀 [Chef Shooter](https://yoavtc.work/project/chef-shooter/) - Feb 2022
 * 👺 [Israel Wolfenstein](https://yoavtc.work/projects/israel-wolfenstein.html) - May 2023
-* 🍕 [Pizza Defender](https://yoavtc.work/projectsv2/pizza-defender/) - May 2023
+* 🍕 [Pizza Defender](https://yoavtc.work/project/pizza-defender/) - May 2023
 * 🐈 [Catch the Cat](https://yoavtc.work/projects/catch-the-cat.html) - Jul 2023
 * 🏂 [Snowboard Tapper](https://yoavtc.work/projects/snowboard-tapper.html) - Dec 2023
 
